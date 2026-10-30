@@ -40,7 +40,7 @@ sounding a buzzer and LEDs.
 
 ## Setup
 1. Wire the circuit as shown above.
-2. Open `src/drowsiness_detection/drowsiness_detection.ino` in the Arduino IDE.
+2. Open `drowsiness_detection/drowsiness_detection.ino` in the Arduino IDE.
 3. Select **Arduino Uno** and the correct port, then upload.
 4. Open the Serial Monitor at 9600 baud to see the sensor readings.
 5. Adjust the sensor potentiometer so it reads LOW only when the eye is closed.
