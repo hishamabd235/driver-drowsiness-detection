@@ -6,7 +6,7 @@ sounding a buzzer and LEDs.
 
 > ⚠️ This is a learning and demonstration prototype, not a validated safety device.
 
-![Prototype](docs/prototype.jpg)
+![Prototype](docs/prototype.jpeg)
 
 ## How it works
 1. The IR eye blink sensor outputs LOW when the eye is closed and HIGH when open.
@@ -63,6 +63,7 @@ Sketch based on the "Driver Drowsiness Detection Project" tutorial by
 
 ## Team
 Hisham Shariq Abdullah, Amaan Fareed Ahmed, Atif Dadan Bashir, Bulhasan Syed Ali
+
 Guide: Prof. Farhan Shaikh, Rizvi College of Engineering, University of Mumbai
 
 ## License
